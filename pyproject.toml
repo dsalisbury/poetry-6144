@@ -52,6 +52,8 @@ defusedxml = "^0.6.0"
 pycountry = "^20.7.3"
 pycountry-convert = "^0.7.2"
 requests-aws4auth = "^1.1.1"
+Twisted = "^22.4.0"
+gunicorn = "^20.1.0"
 
 [tool.poetry.dev-dependencies]
 django-debug-toolbar = "^2.2"
